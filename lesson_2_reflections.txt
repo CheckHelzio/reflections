@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Para iniciar un repositorio de git en en un proyecto ya hecho es necesario desde la
+	terminal ir hacia la ubicacion del directorio, una vez en el directorio es necesario
+	escribir el comando "git init" para crear el repositorio.
+
+	Cuando se inicia el repositorio una carpeta llamada .git se creara en el directorio.
+	Sin embargo git no hara un seguimiento de los archivos ni hara un commit inicial.
+
+How is the staging area different from the working directory and the repository? What value
+do you think it offers?
+
+	El directorio de trabajo es la carpeta en la que se almacena el repositorio y en donde
+	se encuentras los archivos del proyecto, cuando se modifica un archivo este es marcado
+	como modificado, pero si no es agregado al area de preparacion no será guardado en el pro
+	ximo commit
