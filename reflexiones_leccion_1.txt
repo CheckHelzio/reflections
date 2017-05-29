@@ -21,4 +21,8 @@ COMANDOS DE AYUDA
 	vos, reduciendo el espacio en la memoria que estos necesitan.
 
 	Por otro lado, al guardar los cambios de manera manual, describimos en pocas palabras el cambio
-	que estamos guardando, siento más facil identificarlos. 
+	que estamos guardando, siento más facil identificarlos.
+
+4.- Git esta pensado para ser utilizado en proyectos en donde unos archivos se relacionan con otros,
+	por lo cual es indispensable que al momento de guardar un cambio, se guarde el estado que tenian
+	todos los archivos en ese momento.
