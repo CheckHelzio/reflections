@@ -6,6 +6,15 @@ COMANDOS DE AYUDA
 	// Abrir nuevo archivo de texto con Sublime Text, si no existe lo crea
 	subl <Nombre del archivo que vamos a abrir>
 
+	// Copiar un repositorio de git
+	git clone <Url del repositorio que vamos a copiar)
+
+	// Ver la lista de commits de un repositorio
+	git log
+
+	// Ver la diferencia entre dos commits con colores verde y rojo
+	git config --global color.ui auto
+
 1.- Ver la diferencia entre dos versiones de un archivo a traves del comando "diff" nos permite
 	localizar los cambios de manera mas sencilla, ya que por ejemplo, si tuvieramos un archivo
 	con miles de lineas, ver los cambios a simplevista seria una tarea titanica.
