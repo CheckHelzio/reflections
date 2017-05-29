@@ -53,3 +53,11 @@ COMANDOS DE AYUDA
 	version más vieja que queramos comparar y el segundo la version mas reciendo.
 
 		EJ. git dif 98U12OINU12OIU1N2 0812J01928J09J
+
+6.- El uso de Git nos permite tomar más riesgos, ya que lo que comunmente nos detiene es el trabajo que
+	implica restablecer al estado original todos los archivos en caso de que algo salga mal.
+	Con git podemos reestablecer esos cambios de manera muy sencilla.
+
+	Otra de las razones el la oportunidad de crear ramas en el proyectos. Con lo cual podemos trabajar
+	en una nueva caracteristica sin tocar la version funcional del proyecto. Y si modificamos la version
+	base, incorporar estos cambios en la nueva ramificacion.
