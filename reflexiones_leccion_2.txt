@@ -22,3 +22,8 @@
 
 	Podemos identificar que commits estan fuera del alcance de dicha rama y visualizar mejor la union
 	dos o mas ramas distintas.
+
+5.- El resultado de unir dos ramas del repositorio sera determinado por el padre comun de esas dos ramas.
+	Los cambios que fueron añadidos y que no forman parte del padre seran añadidos en la version final.
+	Los cambios que fueron eliminados por una rama y que formaban parte del padre seran eliminados de la verison final.
+	Si hay conflicto entre los cambios de una y otra rama se tendran que solucionar estos cambios manualmente.
