@@ -16,3 +16,9 @@ COMANDOS DE AYUDA
 2.- Tener disponible en todo momento el historial con los distintos cambios de los archivos
 	nos hace más eficientes como programadores ya que a largo plazo habremos ahorrado mucho
 	tiempo al encontrar y revertir errores o restablecer los archivos a algun momento especifico.
+	
+3.- Los cambios en git son guardados manualmente, esto nos permite guardar solo cambios significa
+	vos, reduciendo el espacio en la memoria que estos necesitan.
+
+	Por otro lado, al guardar los cambios de manera manual, describimos en pocas palabras el cambio
+	que estamos guardando, siento más facil identificarlos. 
