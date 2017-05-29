@@ -1,0 +1,7 @@
+COMANDOS DE AYUDA
+
+	// Crear una nueva carpeta
+	mkdir <NOMBRE DE LA CARPETA>
+
+	// Abrir nuevo archivo de texto con Sublime Text, si no existe lo crea
+	subl <Nombre del archivo que vamos a abrir>
