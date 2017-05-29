@@ -15,6 +15,12 @@ COMANDOS DE AYUDA
 	// Ver la diferencia entre dos commits con colores verde y rojo
 	git config --global color.ui auto
 
+	// Reestablecer el proyecto a un commit
+	git checkout <ID del commit>
+
+	// Reestablecer el proyecto al commit mas reciente de esa rama
+	git checkout <Nombre de la rama EJ. master>
+
 1.- Ver la diferencia entre dos versiones de un archivo a traves del comando "diff" nos permite
 	localizar los cambios de manera mas sencilla, ya que por ejemplo, si tuvieramos un archivo
 	con miles de lineas, ver los cambios a simplevista seria una tarea titanica.
