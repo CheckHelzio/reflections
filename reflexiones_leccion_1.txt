@@ -35,3 +35,15 @@ COMANDOS DE AYUDA
 4.- Git esta pensado para ser utilizado en proyectos en donde unos archivos se relacionan con otros,
 	por lo cual es indispensable que al momento de guardar un cambio, se guarde el estado que tenian
 	todos los archivos en ese momento.
+
+5.- Para poder utilizar los comandos "git log" y "git diff" es necesario que en la terminal de Git Bash
+	nos encontremos dentro de la carpeta en donde se encuentra nuestro repositorio. Para ello podemos
+	navegar por las distintas carpetas a traves del comando "CD".
+
+	Una vez en la carpeta del proyecto podemos ejecutar el comando "git log" y ver la lista de commits
+	que se han realizado en dicho repositorio.
+
+	Para ejecutar el comando "git diff" es necesario pasar dos argumentos, el primero será el ID de la
+	version más vieja que queramos comparar y el segundo la version mas reciendo.
+
+		EJ. git dif 98U12OINU12OIU1N2 0812J01928J09J
