@@ -14,3 +14,37 @@ do you think it offers?
 	se encuentras los archivos del proyecto, cuando se modifica un archivo este es marcado
 	como modificado, pero si no es agregado al area de preparacion no será guardado en el pro
 	ximo commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Cada vez que realizamos un cambio logico en el proyecto debemosa agregarlo a la zona
+	de preparacion. 
+
+	Podemos checar la diferencia entre el area de preparacion y el ultimo commit para veri
+	ficar si estamos satisfechos con los cambios que hemos realizado y si no revertirlos.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+	Cuando se quiere crear una funcion experimental en el ptoyecto, o cuando se quiere crear
+	un nuevo modo o una modificacion independiente a la original.
+
+How do the diagrams help you visualize the branch structure?
+	
+	Permitiendo ver de forma mas clara las diferentes ramas del proyecto, los commit que son
+	padres de otros y cuales de ellos se perderian en un determinado caso.
+
+	Tambien nos pemiten ver un momento en el tiempo en el que se modifica algo o a partir de 
+	de que momento se crea una rama para tener mas organizado el proyecto
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	Combinar dos ramas del repositorio añade todas las lineas que fueron añadidas desde el padre comun
+	y elimina las lineas que fueron removidas del padre comin.
+
+	Para representarlo en un diagrama podemos fucionar los dos en una sola rama
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Git combina automaticamente las dos ramas cuando no hay conflicto ente ellas
+	De lo contrario necesitamos resolver manualmente dichos conflictos
