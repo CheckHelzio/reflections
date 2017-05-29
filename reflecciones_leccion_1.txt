@@ -1,0 +1,14 @@
+COMANDOS DE AYUDA
+
+	// Crear una nueva carpeta
+	mkdir <NOMBRE DE LA CARPETA>
+
+	// Abrir nuevo archivo de texto con Sublime Text, si no existe lo crea
+	subl <Nombre del archivo que vamos a abrir>
+
+1.- Ver la diferencia entre dos versiones de un archivo a traves del comando "diff" nos permite
+	localizar los cambios de manera mas sencilla, ya que por ejemplo, si tuvieramos un archivo
+	con miles de lineas, ver los cambios a simplevista seria una tarea titanica.
+
+	Asi pues, si tras realizar algun cambio aparece un "bug" es mas facil localizar o revertir
+	el problema.
