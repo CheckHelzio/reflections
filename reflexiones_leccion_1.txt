@@ -12,3 +12,7 @@ COMANDOS DE AYUDA
 
 	Asi pues, si tras realizar algun cambio aparece un "bug" es mas facil localizar o revertir
 	el problema.
+
+2.- Tener disponible en todo momento el historial con los distintos cambios de los archivos
+	nos hace más eficientes como programadores ya que a largo plazo habremos ahorrado mucho
+	tiempo al encontrar y revertir errores o restablecer los archivos a algun momento especifico.
