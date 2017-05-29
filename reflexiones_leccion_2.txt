@@ -1,0 +1,3 @@
+1.- Para crear un repositorio de Git es necesario ir desde la terminar a la carpeta de trabajo.
+	Despues ingresar el comando "git init".
+	Se creara una carpeta llamada (.git) la cual contendra el historial de cambios del repositorio.
