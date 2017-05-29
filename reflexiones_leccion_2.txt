@@ -1,3 +1,13 @@
 1.- Para crear un repositorio de Git es necesario ir desde la terminar a la carpeta de trabajo.
 	Despues ingresar el comando "git init".
 	Se creara una carpeta llamada (.git) la cual contendra el historial de cambios del repositorio.
+
+2.- El directorio de trabajo en Git es una copia del repositorio y contiene los archivos del proyecto
+	de un determinado commit.
+
+	El area de preparacion es distinta al directorio de trabajo.
+	Los archivos que modifiquemos y queramos que formen parte del siguiente commit tienen que ser
+	agregados al area de preparacion a traves de comando "git add".
+
+	Si hacemos cambios en un archivo y no lo agregamos al area de preparacion y hacemos un commit al 
+	repositorio, esos cambios no formaran parte de ese commit.
