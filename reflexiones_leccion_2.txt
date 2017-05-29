@@ -11,3 +11,8 @@
 
 	Si hacemos cambios en un archivo y no lo agregamos al area de preparacion y hacemos un commit al 
 	repositorio, esos cambios no formaran parte de ese commit.
+
+3.- Las ramificaciones son de gran utilidad cuando se quiere crear una nueva caracteristica sin que
+	el proyecto base quede inutilizado.
+
+	Esto nos ayuda tambien a enfocarnos en distintas areas del proyecto y facilita el trabajo en equipo.
