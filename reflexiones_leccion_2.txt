@@ -16,3 +16,9 @@
 	el proyecto base quede inutilizado.
 
 	Esto nos ayuda tambien a enfocarnos en distintas areas del proyecto y facilita el trabajo en equipo.
+
+4.- Un diagrama que muestra las ramificaciones de un repositorio de Git nos ayuda a identificar en
+	que momento estas surgieron y cual era el estado del padre en ese momento.
+
+	Podemos identificar que commits estan fuera del alcance de dicha rama y visualizar mejor la union
+	dos o mas ramas distintas.
