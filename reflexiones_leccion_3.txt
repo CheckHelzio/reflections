@@ -1,0 +1,1 @@
+1.- Crearemos un repositorio remoto en vez de uno local cuando tengamos la necesidad de trabajar en distintos equipos o cuando tengamos un equipo de trabajo.
