@@ -1,1 +1,13 @@
 1.- Crearemos un repositorio remoto en vez de uno local cuando tengamos la necesidad de trabajar en distintos equipos o cuando tengamos un equipo de trabajo.
+
+2.- git clone
+	Nos permite clonar un repositorio publico a traves de la URL, y establece el remote a esa direccion.
+
+	fork
+	Esta es una caracteristica de GitHub y nos permite clonar directamente un repositiorio en nuestra cuenta,
+	sin embargo, hacerlo de esta manera estamos dandole credito al actor original, ya que este puede ver
+	directamente cuantas personas han clonado su trabajo y mas facil sugerir cambios.
+
+	branches
+	Los branches son una caracteristica de git y nos sirven para trabajar en nuevas funciones del proyecto, tambien
+	ayuda mucho al trabajo en equipo.
