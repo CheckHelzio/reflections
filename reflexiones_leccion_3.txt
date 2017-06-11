@@ -14,3 +14,8 @@
 
 3.- La ventaja de tener la ultima copia del repositorio remoto en el sistema es que podemos consultar estos cambios aunque no estemos en linea
 	De esta manera podemos realizar cambios sin preocuparnos de sobreescribir la version en linea y consultar las diferencias entre ellos.
+
+4.- Colaborar en un proyecto usando github es mas facil que usando git.
+	La principal diferencia es que a traves de github podemos ver cuanta gente a clonado nuestro proyecto mediante FORK
+	Además podemos añadir colaboradores para que puedan trabajar en nuestro proyecto directamente.
+	Tambien es más facil solicitar cambios a trabes del "pull request"
