@@ -11,3 +11,6 @@
 	branches
 	Los branches son una caracteristica de git y nos sirven para trabajar en nuevas funciones del proyecto, tambien
 	ayuda mucho al trabajo en equipo.
+
+3.- La ventaja de tener la ultima copia del repositorio remoto en el sistema es que podemos consultar estos cambios aunque no estemos en linea
+	De esta manera podemos realizar cambios sin preocuparnos de sobreescribir la version en linea y consultar las diferencias entre ellos.
